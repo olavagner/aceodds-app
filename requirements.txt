@@ -2,4 +2,3 @@ streamlit
 pandas
 openpyxl
 reportlab
-pywin32
